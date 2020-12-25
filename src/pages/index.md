@@ -6,9 +6,7 @@ sections:
     image: images/pexels-binyamin-mellish-106399.jpg
     image_alt: ''
     title: Secured Smart Home
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: Tenawr is the perfect solution towars a secured full automated smart home.
     actions:
       - label: Learn More
         url: /features
