@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - section_id: hero
+  - section_id: Home first section
     type: section_hero
     image: images/pexels-binyamin-mellish-106399.jpg
     image_alt: App preview
