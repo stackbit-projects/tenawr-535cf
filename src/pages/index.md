@@ -102,5 +102,5 @@ sections:
 meta_title: Tenawr
 meta_description: Smart Home
 template: landing
-no_index: true
+no_index: false
 ---
