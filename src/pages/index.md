@@ -100,6 +100,6 @@ sections:
     background: gray
     title: Latest Posts
 meta_title: Tenawr
-meta_description: The preview of the Azimuth theme
+meta_description: 'Smart Home '
 template: landing
 ---
