@@ -100,6 +100,6 @@ sections:
     background: gray
     title: Latest Posts
 meta_title: Tenawr
-meta_description: 'Smart Home '
+meta_description: Smart Home
 template: landing
 ---
