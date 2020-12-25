@@ -4,7 +4,7 @@ sections:
   - section_id: Home first section
     type: section_hero
     image: images/pexels-binyamin-mellish-106399.jpg
-    image_alt: App preview
+    image_alt: ''
     title: Secured Smart Home
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
