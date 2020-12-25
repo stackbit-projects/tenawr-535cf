@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/pexels-binyamin-mellish-106399.jpg
     image_alt: App preview
-    title: This Is A Big Hero Headline
+    title: Smart Home done right
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site. 
